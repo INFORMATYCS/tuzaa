@@ -16,6 +16,8 @@
 				$( "#dialog" ).dialog({
 					autoOpen: false,
 					width: 400,
+					position: { my: "center center", at: "center center", of: $("#contendedor"),within: $("#contendedor") },
+					modal: true,
 					buttons: [
 						{
 							text: "Ok",
@@ -81,40 +83,7 @@
 			<tr><td>a</td></tr>
 			<tr><td>a</td></tr>
 			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
-			<tr><td>a</td></tr>
+			<tr><td>a</td></tr>	
 			<tr><td>a</td></tr>			
 	</table>
 	
