@@ -161,8 +161,8 @@
 			</nav>
 
 			
-			<div id="capa" style="background-color:lightblue; width:100%; height:500px;">
-				<div id="contendedor" style="background-color:red;">Pulsa 'Actualizar capa' y este texto se actualizará</div>
+			<div id="capa" style="background-color:white; width:100%;">
+				<div id="contendedor"></div>
 			</div>
 			
 			<br>
